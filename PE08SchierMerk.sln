@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30317.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE08SchierMerk", "PE08SchierMerk\PE08SchierMerk.csproj", "{F3308233-CED2-45CA-A397-FDD55DAEFE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3308233-CED2-45CA-A397-FDD55DAEFE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3308233-CED2-45CA-A397-FDD55DAEFE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3308233-CED2-45CA-A397-FDD55DAEFE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3308233-CED2-45CA-A397-FDD55DAEFE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {054EDBB6-8068-4FED-B942-6A22605B907C}
+	EndGlobalSection
+EndGlobal
